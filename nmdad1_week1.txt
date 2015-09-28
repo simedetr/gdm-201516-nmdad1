@@ -1,0 +1,12 @@
+========================================================================================================
+Naam:	Simen De Troch
+Klas:	2MMPA
+Olod:	New Media Design & Development 1
+========================================================================================================
+Taken Week 1
+========================================================================================================
+Link Github Account:	https://github.com/simedetr
+Link Bitbucket Account:	https://bitbucket.org/simedetr/
+Link gdm-201516-nmdad1 repository: https://github.com/simedetr/gdm-201516-nmdad1
+Link resume.md Markdown document:	https://github.com/simedetr/gdm-201516-nmdad1/blob/master/resume.md
+========================================================================================================
