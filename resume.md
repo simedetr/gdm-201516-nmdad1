@@ -1,8 +1,7 @@
 ![Logo](/Logo/logoRepo.png)
-Format: ![Logo](url)
 
 ## Biografie
-Simen De Troch
+Simen De Troch <br>
 Geboren te Asse op 22 augustus 1992
 
 Hobby's:
